@@ -1,8 +1,11 @@
 ---
 layout: post
 ---
-# CS448B: Data Visualizations Final Project
-This is my homepage! You can add text, links, or even images here.
+CS448B: Data Visualizations Final Project
+Welcome to our project!
+
+The dataset we chose to use was the Newspaper Navigator. The dataset includes different types of visual content such as images and maps from historical newspapers from 1850 to 1963. The object detection model used to compile the dataset recognizes data of the following types: Photograph, Illustration, Map, Comics/Cartoon, Editorial Cartoon, Headline, Advertisement. The dataset also includes textual information about the visual content itself, such as text content of a headline. There is also metadata regarding geographical location, newspaper information, dates, etc.
+
 
 - [Project 1](#)
 - [Project 2](#)
