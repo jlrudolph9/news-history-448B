@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "News History 448B"
-email: jlrudolph9@gmail.com
+title: "Newspaper Navigator: News Through Time"
 description: >- # this means to ignore newlines until "baseurl:"
   Janelle, Amy, and Lucy's 448B Project!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jlrudolph9.github.io/news-history-448B/"
 twitter_username: ""
-github_username:  jlrudolph9
+github_username:  ''
 
 # Build settings
 theme: minima
