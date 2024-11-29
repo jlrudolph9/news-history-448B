@@ -21,7 +21,7 @@
 title: "Newspaper Navigator: News Through Time"
 description: >- # this means to ignore newlines until "baseurl:"
   Janelle, Amy, and Lucy's 448B Project!
-baseurl: "" # the subpath of your site, e.g. /blog
+ # the subpath of your site, e.g. /blog
 url: "https://jlrudolph9.github.io/news-history-448B/"
 twitter_username: ""
 github_username:  ''
