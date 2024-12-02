@@ -14,5 +14,5 @@ The dataset we chose to use was the Newspaper Navigator. The dataset includes di
   src="https://observablehq.com/embed/@amy5/cs448b-final-project?cells=viewof+pieChart"></iframe>
  This visualization displays the proportion of ad types from the years 1900-1946. Readers can click on each pie slice to see an example of an ad that  is in that category.
   
-<iframe width="100%" height="805" frameborder="0"
+<iframe width="100%" height="600" frameborder="0"
   src="https://observablehq.com/embed/18965aada07599a0?cells=map"></iframe>
