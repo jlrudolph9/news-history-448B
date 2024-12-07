@@ -26,3 +26,6 @@ TODO: This visualization displays the top keyword in newspaper headlines by stat
 
 <iframe width="100%" height="642" frameborder="0"
   src="https://observablehq.com/embed/@amy5/draft-amys-part-of-cs448b-final-project@1257?cells=lineChart"></iframe>
+
+  <iframe width="100%" height="642" frameborder="0"
+  src="https://observablehq.com/embed/@amy5/draft-amys-part-of-cs448b-final-project@1327?cells=lineChart"></iframe>
