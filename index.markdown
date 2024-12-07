@@ -4,7 +4,7 @@ title: "CS 448B: Data Visualizations Final Project: Analyzing Newspaper Visual C
 ---
 Lucy Bell, Janelle Rudolph, Amy Tang
 
-About the dataset: The Newspaper Navigator dataset includes different types of visual content from historical newspapers from 1850 to 1963. The visual content is recognized and categorized using a machine learning object detection model which can recognize the following categories: Photograph, Illustration, Map, Comics/Cartoon, Editorial Cartoon, Headline, Advertisement. The dataset also includes textual information about the visual content itself, such as text content of a headline also compiled by the object detection model. There is also metadata regarding geographical location, newspaper information, dates, etc.
+__About the dataset:__ The Newspaper Navigator dataset includes different types of visual content from historical newspapers from 1850 to 1963. The visual content is recognized and categorized using a machine learning object detection model which can recognize the following categories: Photograph, Illustration, Map, Comics/Cartoon, Editorial Cartoon, Headline, Advertisement. The dataset also includes textual information about the visual content itself, such as text content of a headline also compiled by the object detection model. There is also metadata regarding geographical location, newspaper information, dates, etc.
 
 Our focus: After thoroughly examining the dataset, we were most interested in photographs, advertisements, and headlines. By honing in on these three categories, we began to develop a consistent narrative focused around wartime. This article includes multiple interactive visualizations in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
   
