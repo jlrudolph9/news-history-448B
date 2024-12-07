@@ -6,9 +6,7 @@ Lucy Bell, Janelle Rudolph, Amy Tang
 
 About the dataset: The Newspaper Navigator dataset includes different types of visual content from historical newspapers from 1850 to 1963. The visual content is recognized and categorized using a machine learning object detection model which can recognize the following categories: Photograph, Illustration, Map, Comics/Cartoon, Editorial Cartoon, Headline, Advertisement. The dataset also includes textual information about the visual content itself, such as text content of a headline also compiled by the object detection model. There is also metadata regarding geographical location, newspaper information, dates, etc.
 
-Our focus: After thoroughly examining the dataset, we were most interested in 
-
-By focusing on photographs, advertisements, and headlines we began to develop a consistent narrative focused around wartime. This article includes multiple interactive graphs in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
+Our focus: After thoroughly examining the dataset, we were most interested in photographs, advertisements, and headlines. By honing in on these three categories, we began to develop a consistent narrative focused around wartime. This article includes multiple interactive graphs in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
 
  <iframe width="100%" height="503" frameborder="0"
   src="https://observablehq.com/embed/0ce55ef5b9385dcd@1009?cells=chart&api_key=6235b37a985552792ee5a971af6e2fa007c5dd45"></iframe>
