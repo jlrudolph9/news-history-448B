@@ -25,5 +25,5 @@ The dataset we chose to use was the Newspaper Navigator. The dataset includes di
 TODO: This visualization displays the top keyword in newspaper headlines by state for the years 1900-1946. It also show the number of publications from that state in that year. Users can select the year from dropdown.
 
 
-  <iframe width="150%" height="642" frameborder="0"
+  <iframe width="25%" height="642" frameborder="0"
   src="https://observablehq.com/embed/@amy5/draft-amys-part-of-cs448b-final-project@1390?cells=lineChart"></iframe>
