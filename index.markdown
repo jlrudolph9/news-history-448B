@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "CS 448B: Data Visualizations Final Project"
+title: "CS 448B: Data Visualizations Final Project: Analyzing Newspaper Visual Content From the World War Era"
 ---
-Welcome to our project!
+Lucy Bell, Janelle Rudolph, Amy Tang
 
-The dataset we chose to use was the Newspaper Navigator. The dataset includes different types of visual content such as images and maps from historical newspapers from 1850 to 1963. The object detection model used to compile the dataset recognizes data of the following types: Photograph, Illustration, Map, Comics/Cartoon, Editorial Cartoon, Headline, Advertisement. The dataset also includes textual information about the visual content itself, such as text content of a headline. There is also metadata regarding geographical location, newspaper information, dates, etc.
+About the dataset: The Newspaper Navigator dataset includes different types of visual content such as photos, advertisements, and maps from historical newspapers from 1850 to 1963. The visual content is recognized and categorized using a machine learning object detection model. The dataset also includes textual information about the visual content itself, such as text content of a headline also compiled by the object detection model. There is also metadata regarding geographical location, newspaper information, dates, etc.
+
+Our focus: After looking through the da 
 
 By focusing on photographs, advertisements, and headlines we began to develop a consistent narrative focused around wartime. This article includes multiple interactive graphs in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
 
