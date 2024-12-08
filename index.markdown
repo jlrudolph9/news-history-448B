@@ -10,9 +10,9 @@ The Newspaper Navigator dataset includes different types of visual content from 
 ### Our Focus:
 After thoroughly examining the dataset, we were most interested in photographs, advertisements, and headlines. By honing in on these three categories, we began to develop a consistent narrative focused around wartime. This article includes multiple interactive visualizations in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
   
-<iframe width="50%" height="800" frameborder="0"
+<iframe width="100%" height="800" frameborder="0"
   src="https://observablehq.com/embed/@amy5/cs448b-final-project?cells=viewof+pieChart"></iframe>
- <iframe width="50%" height="800" frameborder="0"
+ <iframe width="100%" height="800" frameborder="0"
   src="https://observablehq.com/embed/@amy5/cs448b-final-project?cells=viewof+pieChartWar"></iframe>
  This visualization displays the proportion of ad types from the years 1900-1913 and 1919-1938. We can also see a chart with the years 1914-1918 & 1939-1946, wartime of WW1 and WW2. Try to hover over each pie slice to see an example of an ad that is in that category! We can use this to compare the popularity of ad types in war and out of war. We can see that fashion is the most popular ad type both in wartime and in peacetime, with home ads coming in close second, and food in third. It is interesting to see the differences in the rest of the ad types in war and out of war.
 
