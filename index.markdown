@@ -23,8 +23,8 @@ __Our focus:__ After thoroughly examining the dataset, we were most interested i
 TODO: This visualization displays the top keyword in newspaper headlines by state for the years 1900-1946. It also show the number of publications from that state in that year. Users can select the year from dropdown.
 
 
-  <iframe width="200%" height="642" frameborder="0"
-  src="https://observablehq.com/embed/@amy5/draft-amys-part-of-cs448b-final-project@1390?cells=lineChart"></iframe>
+  <iframe width="100%" height="642" frameborder="0"
+  src="https://observablehq.com/embed/@amy5/draft-amys-part-of-cs448b-final-project@1401?cells=lineChart"></iframe>
 
 This visualization tracks the frequency of mentions of 5 major world powers - Britain, France, Germany, Japan, and Russia -- in newspaper photos from 1900 to 1946. I chose these countries because they were some of the most prominent countries involved in the World Wars outside of the United States. The data is presented as a line graph with years on the x-axis and mention counts on the y-axis. The graph has annotations for peaks in the graph such as the Russo-Japanese War and pivotal historical moments such as the start and end of the world wars and the great depression. __Viewers can hover over points to see the exact count for any country in any particular year. Viewers can also hover over the annotations to see a blurb with additional detailed historical context.__ 
 
