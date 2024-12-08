@@ -9,6 +9,8 @@ The Newspaper Navigator dataset includes different types of visual content from 
 
 ### Our Focus:
 After thoroughly examining the dataset, we were most interested in photographs, advertisements, and headlines. By honing in on these three categories, we began to develop a consistent narrative focused around wartime. This article includes multiple interactive visualizations in order to accurately convey newspaper content from 1900-1946 and hone in on patterns that arose.
+
+In the early 20th century, newspapers were the primary way of shaping public opinon and providing communication on local and world events. In wartime, they served not only as a source of news but also as a tool for government messaging and societal persuasion. The visual content within these newspapers reflects both the priorities and constraints of the time, offering unique insights into historical events and cultural shifts.
   
 <iframe width="100%" height="825" frameborder="0"
   src="https://observablehq.com/embed/07f0cb22ca7ec1cd?cells=viewof+toggleCharts"></iframe>
