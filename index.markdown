@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS 448B: Data Visualizations Final Project: Analyzing Newspaper Visual Content From the World War Era"
+title: "CS 448B Data Visualizations Final Project: Analyzing Newspaper Visual Content From the World War Era"
 ---
 Lucy Bell, Janelle Rudolph, Amy Tang
 
