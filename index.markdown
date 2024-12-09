@@ -23,9 +23,9 @@ In the early 20th century, newspapers were the primary way of shaping public opi
 
  __By clicking on the fashion category, you are also able to see the difference in men and women targeted fashion ads. Can you estimate the proportions for both time periods?__ During wartime, fashion advertisements often focused more on men, reflecting their central role in the war effort and the influence of military styles on civilian attire. Ads for men highlighted durable, practical clothing like uniforms, sturdy suits, and boots, emphasizing patriotism and resilience. Women’s fashion during these periods was often constrained by fabric rationing, leading to simpler, utilitarian designs and fewer advertisements. In contrast, peacetime brought a shift toward women’s fashion as America sought to rebuild normalcy, with ads celebrating femininity, elegance, and luxury. Economic recovery allowed for greater spending on elaborate styles and accessories, and women, as key household consumers, became the primary target for fashion marketers. Men’s fashion ads during peacetime declined in prominence, focusing instead on leisure and business attire. These shifts reflect the broader social and economic dynamics of wartime and peacetime, as well as evolving gender roles and priorities.
   
-<iframe width="100%" height="600" frameborder="0"
-  src="https://observablehq.com/embed/18965aada07599a0?cells=map"></iframe>
-TODO: This visualization displays the top keyword in newspaper headlines by state for the years 1900-1946. It also show the number of publications from that state in that year. Users can select the year from dropdown.
+<iframe width="100%" height="700" frameborder="0"
+  src="https://observablehq.com/embed/18965aada07599a0@1307?cells=viewof+state"></iframe>
+This visualization displays the top keyword in newspaper headlines by state for the years 1900-1946. It also show the number of publications from that state in that year. Users can select the year from dropdown.
 
 
 <iframe width="100%" height="741" frameborder="0"
